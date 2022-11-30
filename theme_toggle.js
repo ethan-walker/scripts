@@ -1,3 +1,6 @@
+/*
+	🌓 DARK/LIGHT THEME TOGGLE
+*/
 const theme_icon = document.querySelector(".theme_icon");
 function setTheme(theme) {
 	localStorage.setItem("theme", theme);
